@@ -17,10 +17,10 @@ Dự án chatbot demo được xây dựng nhằm mục đích thử nghiệm v�
 ⚙️ Cài đặt
 
 1️⃣ Clone project
-    ```bash
+```bash
     git clone https://github.com/dangmanh18112004/Object-Detection-with-YOLO.git
     cd chatbot-gemini-mongodb
-    ```
+```
 
 2️⃣ Cài đặt thư viện
  ```bash
