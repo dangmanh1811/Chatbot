@@ -40,3 +40,9 @@ MONGODB_URI=[your_mongodb_uri]
 ```bash
 streamlit run app.py
 ```
+
+## 📹 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=SGumnEoczYw)
+
+
