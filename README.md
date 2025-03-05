@@ -1,4 +1,4 @@
-# 🤖 Chatbot Demo - Gemini API & MongoDB Atlas Integration
+![image](https://github.com/user-attachments/assets/043203bc-26c2-426b-863d-e218dc6af3ba)# 🤖 Chatbot Demo - Gemini API & MongoDB Atlas Integration
 ## Introduction
 This chatbot demo project is built to showcase and experiment with the following features:
 
@@ -43,6 +43,7 @@ streamlit run app.py
 
 ## 📹 Demo Video
 
-[![Watch the demo](https://www.youtube.com/watch?v=SGumnEoczYw)](https://www.youtube.com/watch?v=SGumnEoczYw)
+[![Watch the demo](![image](https://github.com/user-attachments/assets/d6180e24-beb3-4ce9-bc9d-513e48d57bfa)
+)](https://www.youtube.com/watch?v=SGumnEoczYw)
 
 
