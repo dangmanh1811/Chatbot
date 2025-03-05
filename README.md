@@ -43,7 +43,6 @@ streamlit run app.py
 
 ## 📹 Demo Video
 
-[![Watch the demo](![image](https://github.com/user-attachments/assets/d6180e24-beb3-4ce9-bc9d-513e48d57bfa)
-)](https://www.youtube.com/watch?v=SGumnEoczYw)
+[![Watch the demo]()](https://www.youtube.com/watch?v=SGumnEoczYw)
 
 
