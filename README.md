@@ -1,5 +1,5 @@
 # 🤖 Chatbot Demo - Gemini API & MongoDB Atlas Integration
-##📝 Giới thiệu
+📝 Giới thiệu
 Dự án chatbot demo được xây dựng nhằm mục đích thử nghiệm và trình diễn các tính năng sau:
 
 * 🚀 Kết nối và lấy dữ liệu từ Gemini API để trả lời câu hỏi tự động.
@@ -7,7 +7,7 @@ Dự án chatbot demo được xây dựng nhằm mục đích thử nghiệm v�
 * 🎨 Triển khai giao diện bằng Streamlit để tương tác trực tiếp trên trình duyệt.
 * 🎯 Dự án phù hợp để làm mẫu tích hợp chatbot AI cơ bản với khả năng mở rộng vào các hệ thống thực tế như hỗ trợ khách hàng, tư vấn sức khỏe tâm lý, hay các hệ thống hỏi đáp.
 
-##⚡ Công nghệ sử dụng
+⚡ Công nghệ sử dụng
 🐍 Python	Ngôn ngữ lập trình chính
 🌐 Streamlit	Xây dựng giao diện web
 🤖 Gemini API	Nguồn cung cấp dữ liệu AI trả lời
