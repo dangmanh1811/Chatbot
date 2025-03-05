@@ -8,12 +8,7 @@ Dự án chatbot demo được xây dựng nhằm mục đích thử nghiệm v�
 * Dự án phù hợp để làm mẫu tích hợp chatbot AI cơ bản với khả năng mở rộng vào các hệ thống thực tế như hỗ trợ khách hàng, tư vấn sức khỏe tâm lý, hay các hệ thống hỏi đáp.
 
 ## Công nghệ sử dụng
-* Python	Ngôn ngữ lập trình chính
-* Streamlit	Xây dựng giao diện web
-* Gemini API Nguồn cung cấp dữ liệu AI trả lời
-* MongoDB Atlas	Lưu trữ thông tin người dùng, lịch sử chat
-* Pymongo	Kết nối MongoDB với Python
-  
+
 | 🛠️ Công nghệ       | 🔍 Vai trò                           |
 |--------------------|--------------------------------------|
 | 🐍 Python         | Ngôn ngữ lập trình chính             |
