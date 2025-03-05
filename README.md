@@ -43,6 +43,6 @@ streamlit run app.py
 
 ## 📹 Demo Video
 
-[![Watch the demo](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO24_WhatsInAName_Hero_1.width-1200.format-webp.webp)](https://www.youtube.com/watch?v=SGumnEoczYw)
+[![Watch the demo](https://www.youtube.com/watch?v=SGumnEoczYw)](https://www.youtube.com/watch?v=SGumnEoczYw)
 
 
