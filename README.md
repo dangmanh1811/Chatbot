@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/043203bc-26c2-426b-863d-e218dc6af3ba)# 🤖 Chatbot Demo - Gemini API & MongoDB Atlas Integration
+# 🤖 Chatbot Demo - Gemini API & MongoDB Atlas Integration
 ## Introduction
 This chatbot demo project is built to showcase and experiment with the following features:
 
