@@ -1,0 +1,5 @@
+pymongo[srv] # using mongodb
+python-dotenv # store enviroment variable
+bcrypt # hashing password
+streamlit
+google-genai # for call API of Gemini
