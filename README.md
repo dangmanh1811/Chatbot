@@ -18,9 +18,13 @@ Dự án chatbot demo được xây dựng nhằm mục đích thử nghiệm v�
 
 1️⃣ Clone project
 ```bash
-    git clone https://github.com/dangmanh18112004/Object-Detection-with-YOLO.git
-    cd chatbot-gemini-mongodb
+    git clone https://github.com/dangmanh1811/Chatbot.git
+    
 ```
+```bash
+    cd chatbot-gemini-mongodb 
+```
+
 
 2️⃣ Cài đặt thư viện
  ```bash
@@ -31,8 +35,8 @@ Dự án chatbot demo được xây dựng nhằm mục đích thử nghiệm v�
 3️⃣ Thêm file cấu hình .env
 Tạo file .env ở thư mục gốc với nội dung:
 ```bash
-    GEMINI_API_KEY=your_gemini_api_key
-    MONGODB_URI=your_mongodb_connection_string
+    GEMINI_API_KEY=[your_gemini_api_key]
+    MONGODB_URI=[your_mongodb_uri]
 ```
 
 
