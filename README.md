@@ -41,8 +41,6 @@ MONGODB_URI=[your_mongodb_uri]
 streamlit run app.py
 ```
 
-## 📹 Demo Video
 
-[![Watch the demo]()](https://www.youtube.com/watch?v=SGumnEoczYw)
 
 
